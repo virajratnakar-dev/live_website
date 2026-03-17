@@ -1,5 +1,8 @@
 # ⚡ Chaos Clicker
 
+to access this website from any device, use this link:
+
+
 A minimal, neon-themed browser clicker game with a retro cyberpunk aesthetic. Built using pure HTML, CSS, and JavaScript — no frameworks, no dependencies.
 
 🎮 Overview
