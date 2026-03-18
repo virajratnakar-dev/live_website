@@ -1,7 +1,7 @@
 # ⚡ Chaos Clicker
 
 to access this website from any device, use this link:
-https://virajratnakar-dev.github.io/Clicker_Game/
+https://virajratnakar.github.io/Clicker_Game/
 
 A minimal, neon-themed browser clicker game with a retro cyberpunk aesthetic. Built using pure HTML, CSS, and JavaScript — no frameworks, no dependencies.
 
